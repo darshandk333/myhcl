@@ -1,7 +1,7 @@
 hello Darshan ...
 
-<<<<<<< HEAD
+
 how are you ...
-=======
+
 nice to meet you ...
->>>>>>> 8401411a27f0ecc2d5668cb7df120cd8846a7ac2
+
